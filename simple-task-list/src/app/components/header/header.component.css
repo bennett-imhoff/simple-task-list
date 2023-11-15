@@ -1,0 +1,9 @@
+header {
+    margin-bottom: 20px;
+}
+
+.title{
+    text-align: center;
+    color: navy;
+    text-shadow: #b4b3b3 2px 2px;
+}
